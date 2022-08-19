@@ -1,0 +1,23 @@
+.navbar-collapse .nav-link {
+    color: #CCF2F4;
+}
+
+.navbar-collapse .nav-link:hover {
+    color: #A4EBF3;
+}
+
+.navbar-collapse .nav-link.active {
+    color: #79DAE8;
+}
+
+.navbar-collapse .nav-link.active:hover {
+    color: #79DAE8;
+}
+
+.navbar-brand {
+    color: #79DAE8;
+}
+
+.navbar-brand:hover {
+    color: #79DAE8;
+}
